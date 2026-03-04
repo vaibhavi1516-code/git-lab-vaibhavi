@@ -1,2 +1,4 @@
 My 1st Line in git
+
 My 2nd Line in git
+My 3rd Line in git
